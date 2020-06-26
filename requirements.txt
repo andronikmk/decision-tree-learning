@@ -1,8 +1,10 @@
 category_encoders
+dtreeviz
 graphviz
 ipykernel
 numpy
 pandas
 scikit-learn
 scipy
+svglib
 
